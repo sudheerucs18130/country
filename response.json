@@ -1,0 +1,14 @@
+{
+	"officialName": "Republic of India",
+	"commonName": "India",
+	"currencies": {
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "₹"
+            }
+          }
+	"capital": [
+            "New Delhi"
+        ],
+	"population": 1380004385
+}
